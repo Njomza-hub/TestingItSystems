@@ -29,7 +29,7 @@ See the following videos and Web pages:
 
 1. Video - [YouTube GitHub Issues Video](https://www.youtube.com/watch?v=TKJ4RdhyB5Y).
 2. Video - [YouTube video about GitHub and Issues](https://www.youtube.com/watch?v=w3jLJU7DT5E).
-3. Video - [This GitHub Mastering Issues Web Page](https://guides.github.com/features/issues/).
+3. Web Page - [This GitHub Mastering Issues Web Page](https://guides.github.com/features/issues/).
 4. Web Pages [These GitHub Issues Documentation Web Pages](https://help.github.com/en/github/managing-your-work-on-github/managing-your-work-with-issues).
 
 GitHub has their own one hour introduction course, which is optional and [Found Here](https://lab.github.com/githubtraining/introduction-to-github).
